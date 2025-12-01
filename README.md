@@ -93,16 +93,20 @@ pip install -r requirements.txt
 Run the Jupyter Notebook:
 jupyter notebook
 
-Results
+Results:
 The model successfully classified customers into 5 meaningful segments that help businesses:
 
-Improve targeted marketing
+Improve targeted marketing:
 Increase ROI
 
-Personalize communication
+Personalize communication:
 Understand customer behavior
 
-Author
+
+Author:
+
 Pratima Jitendra Chougale
+
 Freelance Data Analyst
+
 📧 Email: chougalepratima@gmail.com
