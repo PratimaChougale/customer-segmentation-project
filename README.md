@@ -16,19 +16,6 @@ This project includes:
 - Visualizing cluster groups
 - Business insights for each customer group
 
-📂 Project Structure
-customer-segmentation-project/
-│── data/
-│     └── Mall_Customers.csv
-│── notebooks/
-│     └── customer_segmentation.ipynb
-│── images/
-│     ├── elbow_method.png
-│     ├── cluster_plot.png
-│     └── 3d_cluster_plot.png
-│── README.md
-└── requirements.txt
-
 Dataset Information:
 Dataset Name: Mall Customers Dataset
 Columns:
